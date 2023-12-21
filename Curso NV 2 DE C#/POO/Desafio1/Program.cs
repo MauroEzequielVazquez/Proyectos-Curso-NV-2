@@ -32,7 +32,7 @@ namespace Desafio1
             Console.WriteLine("El numero telefonico de mi otro telefono es: " + Tel2.numeroTelefonico);
             Console.WriteLine("El cod de operador de mi otro telefono es: " + Tel2.CodOperador);
             Console.WriteLine(Tel1.Llamar());
-            Console.WriteLine(Tel1.Llamar(" Micaela la toxica"));
+            Console.WriteLine(Tel1.Llamar(" Micaela "));
             Console.ReadKey();
 
 
